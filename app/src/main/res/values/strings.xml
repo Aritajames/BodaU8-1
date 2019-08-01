@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Safeboda2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Safeboda</string>
+    <string name="nav_header_subtitle">Ride like you</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_sms">Message</string>
+    <string name="menu_dial">Dial</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_sharing">Share</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_pesa">M-Pesa</string>
+    <string name="menu_camera">Take photo</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
